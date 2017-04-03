@@ -57,7 +57,6 @@ public class MainActivity extends AppCompatActivity {
             }
         }).start();
         Executors.newCachedThreadPool();
-       // finish();
     }
 
     @Override
