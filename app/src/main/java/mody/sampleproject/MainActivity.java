@@ -75,4 +75,8 @@ public class MainActivity extends AppCompatActivity {
     interface some {
 
     }
+
+    class some1{
+
+    }
 }
