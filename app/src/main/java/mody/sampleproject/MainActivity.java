@@ -69,12 +69,4 @@ public class MainActivity extends AppCompatActivity {
         super.onConfigurationChanged(newConfig);
         Log.i("SimpleService","CONFIG CHANGED");
     }
-
-    interface some {
-
-    }
-
-    class some1{
-
-    }
 }
